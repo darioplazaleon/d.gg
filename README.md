@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# D.GG
 
-## Getting Started
+D.GG es una aplicacion web que hace uso de la API de Riot Games, actualmente solo soporta las regiones LAS y LAN, en un futuro cercano planeo agregar mas detalle de las partidas que trae la web y de mas modos de juego.
 
-First, run the development server:
+### COMO USAR
+Cada vez que ingreses vas a ver esta interfaz:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![lolappinit](https://github.com/darioplazaleon/d.gg/assets/83676414/5e07e554-87e6-4226-9fc5-ea24f188cc90)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Aca vas a poder ingresar tu usuario, si no tenes alguno podes probar el mio, simplemente dejas la opcion en "LAS", y en nombre de invocador ingresas "Nanii", si todo salio bien vas a poder ver la pagina con el resultado de las 20 ultimas partidas jugadas, de esta manera:
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+![LolApp](https://github.com/darioplazaleon/d.gg/assets/83676414/d455fcae-9b99-48ee-816a-76c2cc35556c)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Adicional
 
-## Deploy on Vercel
+Para cualquier consulta o feedback podes consultarme en los siguientes medios:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dario_Plaza_Leon-blue?logo=linkedin)](https://www.linkedin.com/in/dario-plaza)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-Mi_Pagina-orange?logo=google-chrome)](https://darioplaza.tech)
+
